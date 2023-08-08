@@ -1,0 +1,11 @@
+html {
+    background-color: blue;
+    color: white;
+}
+
+.dog {
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+    top:  300px;
+}
